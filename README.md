@@ -33,7 +33,6 @@ It is known for its cool climate and snow-capped mountains, adventure activities
 ### Quotes
 >A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
  *- George Bernhard Shaw*
- 
+
 >If you don’t like something, change it. If you can’t change it, change the way you think about it. 
 *- Mary Engelbreit*
----
