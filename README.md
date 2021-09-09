@@ -19,3 +19,13 @@ It is known for its cool climate and snow-capped mountains, adventure activities
    * Food
  
  [About Myself](AboutMe.md)  
+---
+ ### The Recommended list of food/drink items
+
+
+ | Food Item     | Location    | Price  | 
+ | :----:        | :----:      | :----:|
+ | Dal Makhani   |Punjab       |100INR|
+ | Vada Pav      |Mumbai       |60INR|
+ | Kosna         |Jharkhand    |100INR|
+ | Solkadi       |Goa          |150INR|
