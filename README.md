@@ -36,3 +36,25 @@ It is known for its cool climate and snow-capped mountains, adventure activities
 
 >If you don’t like something, change it. If you can’t change it, change the way you think about it. 
 *- Mary Engelbreit*
+---
+> Fibonacci Numbers
+
+[source] <https://en.wikipedia.org/wiki/Fibonacci_number>
+---
+class FibonacciExample1{  
+public static void main(String args[])  
+{    
+ int n1=0,n2=1,n3,i,count=10;    
+ System.out.print(n1+" "+n2);//printing 0 and 1    
+    
+ for(i=2;i<count;++i)//loop starts from 2 because 0 and 1 are already printed    
+ {    
+  n3=n1+n2;    
+  System.out.print(" "+n3);    
+  n1=n2;    
+  n2=n3;    
+ }    
+}
+}
+---
+[source] <https://www.javatpoint.com/fibonacci-series-in-java>
