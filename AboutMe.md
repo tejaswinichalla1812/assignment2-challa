@@ -1,3 +1,3 @@
 ### Tejaswini Challa
-I completed my bachelors technology in Computer Science from SRK Institute of Technology, Vijayawada, India. I have two years of work experience in software industry. As I am a student from Computer Science background I want to learn the subjects in advance level which helps me to develop my skilss and enhance my career.
+I completed my bachelors technology in Computer Science from SRK Institute of Technology, Vijayawada, India. I have two years of work experience in software industry. As I am a student from Computer Science background I want to learn the subjects in advance level which helps me to develop my skills and enhance my career.
 ![Image](https://github.com/tejaswinichalla1812/assignment2-challa/blob/main/Image.jpg)
