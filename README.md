@@ -11,3 +11,10 @@ It is known for its cool climate and snow-capped mountains, adventure activities
 2. From Mumbai to Manali
    1. Connecting flight to Chandigarh Airport
    2. Take the road route around 312 kms from Chandigarh to Manali
+* List of items(Unordered)  
+   * Heavy woollen clothing & socks
+   * Camera
+   * ID proof
+   * Medication
+   * Food
+    
